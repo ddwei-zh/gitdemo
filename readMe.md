@@ -2,7 +2,11 @@
 i
 :i
 e
-git 测试demo2
+<<<<<<< HEAD
+git 测试demo23
+=======
+git 测试demo
+>>>>>>> 62d297cd662611b893000a3d8bad589cec14ec87
 第二次提交
 第三次提交
 分支后第一次
